@@ -81,3 +81,61 @@ index.html
 </body>
 </html>
 ```
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>AI Video Creator</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f2f2f2;
+      padding: 40px;
+      text-align: center;
+    }
+
+    .container {
+      background: #fff;
+      max-width: 500px;
+      margin: auto;
+      padding: 30px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      border-radius: 10px;
+    }
+
+    h1 {
+      margin-bottom: 20px;
+    }
+
+    button {
+      background-color: #4CAF50;
+      color: white;
+      border: none;
+      padding: 15px 25px;
+      margin: 10px;
+      cursor: pointer;
+      font-size: 16px;
+      border-radius: 5px;
+    }
+
+    button:hover {
+      background-color: #45a049;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>AI Video Tools</h1>
+    
+    <a href="https://pictory.ai" target="_blank">
+      <button>Text to Video (Pictory)</button>
+    </a>
+
+    <a href="https://repurpose.io" target="_blank">
+      <button>YouTube to TikTok Clip (Repurpose)</button>
+    </a>
+  </div>
+</body>
+</html>
+```
